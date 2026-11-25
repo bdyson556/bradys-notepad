@@ -1,0 +1,4 @@
+# Notes never belong in this repo.
+log/
+*.json
+TASKS.md
